@@ -1,0 +1,1 @@
+print("Strings - examples 1")

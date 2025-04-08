@@ -25,3 +25,6 @@ print("Hello ""George"" ")
 
 # raw strings => they are printed exactly as they are, escape characters are not accounted for
 print(r"\nThis is a \"raw string" )
+
+# print multiple items
+print("Hello", "Mara", 2011)

@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="276070ff-3caa-4615-8426-9741496f6b0b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Language_Fundamentals/.idea/Language_Fundamentals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Language_Fundamentals/.idea/Language_Fundamentals.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Language_Fundamentals/basic_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Language_Fundamentals/basic_strings.py" afterDir="false" />
-    </list>
+    <list default="true" id="276070ff-3caa-4615-8426-9741496f6b0b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.main.executor": "Run",
+    "Python.slicing_strings.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -50,7 +48,7 @@
       <recent name="D:\Training\Python_Programmers_Ultimate_Guide\Python Language Basics\Language_Fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.variables">
+  <component name="RunManager" selected="Python.slicing_strings">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Language_Fundamentals" />
       <option name="ENV_FILES" value="" />
@@ -87,6 +85,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="slicing_strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Language_Fundamentals" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Language_Fundamentals" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Language_Fundamentals/slicing_strings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,6 +219,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.slicing_strings" />
         <item itemvalue="Python.variables" />
         <item itemvalue="Python.main" />
       </list>

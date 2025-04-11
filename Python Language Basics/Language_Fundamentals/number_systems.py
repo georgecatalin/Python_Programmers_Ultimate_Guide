@@ -23,3 +23,8 @@ print("binary to hexa ->", hex(0b11110111010))
 print("convert from string containing binary to decimal -> ", int("0b11110111010", base=2))
 print("convert from string containing octal to decimal -> ", int("0o3672", base=8))
 print("convert from string containing hexa to decimal -> ", int("0x7ba", base=16))
+
+# merge numbers into strings
+print("merge binary numbers into strings -> {0:b}".format(number_1))
+print("merge octal numbers into strings -> {0:o} ".format(number_1))
+print("merge hexa numbers into strings -> {0:x} ".format(number_1))

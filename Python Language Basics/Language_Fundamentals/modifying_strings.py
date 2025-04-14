@@ -37,8 +37,8 @@ print("Create a new string with the specified width, aligning the old value at t
 just_string_routput =just_string.rjust(15,"*")
 print("Create a new string with the specified width, aligning the old value at the right, and fill the added space with the specified character", just_string_loutput)
 
-just_string_coutput =just_string.ljust(15,"*")
-print("Create a new string with the specified width, aligning the old value at the center, and fill the added space lefthand and righthand side with the specified character", just_string_loutput)
+just_string_coutput =just_string.center(15,"*")
+print("Create a new string with the specified width, aligning the old value at the center, and fill the added space lefthand and righthand side with the specified character", just_string_coutput)
 
 a_number = "1978"
 zfilled_number = a_number.zfill(10)

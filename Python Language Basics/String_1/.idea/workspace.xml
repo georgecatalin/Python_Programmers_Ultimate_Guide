@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="276070ff-3caa-4615-8426-9741496f6b0b" name="Changes" comment="" />
+    <list default="true" id="276070ff-3caa-4615-8426-9741496f6b0b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Language_Fundamentals/modifying_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Language_Fundamentals/modifying_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,8 +48,10 @@
     "Python.none_values.executor": "Run",
     "Python.number_systems.executor": "Run",
     "Python.slicing_strings.executor": "Run",
+    "Python.swap_variables.executor": "Run",
     "Python.truthy_falsy_values.executor": "Run",
     "Python.type_conversions.executor": "Run",
+    "Python.user_input.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -60,7 +65,7 @@
       <recent name="D:\Training\Python_Programmers_Ultimate_Guide\Python Language Basics\Language_Fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mutable_immutable_types">
+  <component name="RunManager" selected="Python.user_input">
     <configuration name="math" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Language_Fundamentals" />
       <option name="ENV_FILES" value="" />
@@ -149,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="none_values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="swap_variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Language_Fundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,7 +167,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Language_Fundamentals/none_values.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Language_Fundamentals/swap_variables.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="number_systems" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="user_input" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Language_Fundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,7 +189,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Language_Fundamentals/number_systems.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Language_Fundamentals/user_input.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.user_input" />
+        <item itemvalue="Python.swap_variables" />
         <item itemvalue="Python.mutable_immutable_types" />
         <item itemvalue="Python.memory_allocation" />
         <item itemvalue="Python.math" />
-        <item itemvalue="Python.number_systems" />
-        <item itemvalue="Python.none_values" />
       </list>
     </recent_temporary>
   </component>

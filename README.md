@@ -4,3 +4,5 @@
 * course url: https://www.udemy.com/course/python-programmers-ultimate-guide-for-beginners-project/
 
  <img src="20250407_160743_BEw.png" alt="Course Screenshot" width="700">
+
+ 

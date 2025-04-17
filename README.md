@@ -1,6 +1,6 @@
 # Python_Programmers_Ultimate_Guide
 ## Content
-* Code practice associated with the Udemy course "Python Programmer's Ultimate Guide | Zero to Hero" authored by Harsha Vardhan
+* Code practice associated with the Udemy course **"Python Programmer's Ultimate Guide | Zero to Hero"** authored by Harsha Vardhan
 * course url: https://www.udemy.com/course/python-programmers-ultimate-guide-for-beginners-project/
 
 ## Rating

@@ -8,6 +8,7 @@ As a mid-level Python developer, I took Python Programmer's Ultimate Guide for B
 
 The structured lessons and exercises effectively refreshed my knowledge, and I even picked up a few new insights and best practices. Though most content was familiar territory as expected, I appreciated the concise recap of key topics. Overall, it's a helpful refresher for someone with moderate Python experience, even if it occasionally feels a bit basic.
 
+## Course details
  <img src="20250407_160743_BEw.png" alt="Course Screenshot" width="700">
 
  

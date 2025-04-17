@@ -11,4 +11,9 @@ The structured lessons and exercises effectively refreshed my knowledge, and I e
 ## Course details
  <img src="20250407_160743_BEw.png" alt="Course Screenshot" width="700">
 
+ ## Commits by
+* George Calin
+* george.calin [at] gmail.com
+* Connect me on LinkedIn: https://www.linkedin.com/in/cgeorge1978/
+
  

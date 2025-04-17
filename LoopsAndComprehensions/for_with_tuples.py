@@ -22,7 +22,7 @@ print("The tuple is \t ->", su35_features)
 # loop with the iterator tuple
 for i in su35_features:
     print("element of the tuple is: \t ->", i)
-    
+
 # loop with the range iterator
 for i in range(0,len(su35_features)):
     print(i, su35_features[i])

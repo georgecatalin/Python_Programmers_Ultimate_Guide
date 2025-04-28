@@ -28,9 +28,11 @@ print(vars(person))
 person.get_details()
 
 child_1 = Developer("Mara Calin", "mara@yahoo.com")
+child_1.skills = ["Python", "C#"] # additionally instance attributes can be added to objects, after the object was constructed in Python
 print(vars(child_1))
 child_1.get_details()
 
 child_2 = Manager("Sorina", "sorina@email.com")
+child_2.location = ["Romania", "United States"]
 print(vars(child_2))
 child_2.get_details()

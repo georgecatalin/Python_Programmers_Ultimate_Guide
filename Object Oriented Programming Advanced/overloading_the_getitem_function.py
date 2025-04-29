@@ -1,5 +1,6 @@
-# In Python, by default the len() function can be applied to strings and collections (lists, tuples, sets, etc)
-# If one tries to apply the len() function to a user type , then the interpreter will fetch an error cause if encounters an undefined situation
+"""
+in Python we might overload the object[key] to a particular user type by writing it into the function __getitem__(self,key)
+"""
 
 class Sales:
     """
@@ -11,6 +12,10 @@ class Sales:
 
     def __len__(self):
         return len(self.asia_sales) + len(self.europe_sales)
+
+    def __getitem__(self,key):
+        combined_list = [* self.asia_sales, * self.europe_sales]
+        return [element for element in combined_list if element["country"] == key][0]["amount"]
 
 
 new_object_1 = Sales(
@@ -29,4 +34,6 @@ new_object_1 = Sales(
     ]
 )
 
-print("This is obtained by overloading the __len__() function for a user type: ", len(new_object_1))
+
+# we wish to extract the Sales by a syntax like new_object_1["China"] => result should be 250
+print("This is obtained by overloading the getitem() function ->> \t new_object_1[\"India\"] = ", new_object_1["India"])

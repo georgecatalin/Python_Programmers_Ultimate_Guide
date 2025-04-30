@@ -2,6 +2,7 @@
 Each module should contain documentation about its content - either classes, variables or functions
 each .py file is called a module in Python.
 a module can call another module.
+anytime when a module is imported in another module, the entire code in the imported module is executed, except classes, and functions
 """
 
 # we access consequently all the elements from other modules here

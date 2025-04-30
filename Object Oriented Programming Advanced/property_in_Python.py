@@ -35,3 +35,7 @@ print(employee.full_name)
 employee.full_name = "GeorgeCalin"
 print(employee.full_name)
 print(vars(employee))
+
+del employee.full_name
+
+# print(employee.full_name) # AttributeError: 'Employee' object has no attribute '_Employee__full_name'

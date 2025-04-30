@@ -4,7 +4,7 @@
 * course url: https://www.udemy.com/course/python-programmers-ultimate-guide-for-beginners-project/
 
 ## Rating
- I took **"Python Programmer's Ultimate Guide"**  as a mid-level Python developer, to brush up on the basics. It covers fundamentals thoroughly, with clear explanations of syntax, data types, and OOP, often illustrated with real-world examples, reinforcing core concepts I hadn't practiced recently.
+ I took **"Python Programmer's Ultimate Guide"**  as a mid-level Python developer, to brush up on the basics. It covers fundamentals thoroughly, with clear explanations of syntax, data types, and OOP, often illustrated with real-world examples, reinforcing core concepts I haven't practiced since two years.
 
 The structured lessons and exercises effectively refreshed my knowledge, and I even picked up a few new insights and best practices. Though most content was familiar territory as expected, I appreciated the concise recap of key topics. Overall, it's a helpful refresher for someone with moderate Python experience, even if it occasionally feels a bit basic.
 
